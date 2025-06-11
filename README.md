@@ -2,7 +2,7 @@
 ## Scope
 The scope of this document is to provide L1 requirements for the 2025 FRC Robot designed by Team 7850. It is an example written after the competition was complete.
 
-## Robot Capabilities
+## 1. Robot Capabilities
 1. Robot shall score Algae in the processor.
 2. Robot shall score Algae in the Barge.
 3. Robot shall remove Algae from L2 position on the Reef.
@@ -16,10 +16,12 @@ The scope of this document is to provide L1 requirements for the 2025 FRC Robot 
 11. Robot shall withstand a full speed collision with a stationary object.
 12. Robot shall travel with all parts contained within the perimeter of protective bumper.
 13. Robot shall meet all rules requiremens defined by FIRST Robotics Competition.
+14. Robot shall be SICK.
 
-## Autonomous Capabilities
-15. Robot shall score Algae in the Processor autonomously.
-16. Robot shall end autonomous mode off of the starting line.
+## 2. Autonomous Capabilities
+1. Robot shall score Algae in the Processor autonomously.
+2. Robot shall end autonomous mode off of the starting line.
 
-## Driver Capabilities
-17. Robot shall be operated by a driver, and an operator using dedicated controllers.
+## 3. Driver Capabilities
+1. Robot shall be operated by a driver, and an operator using dedicated controllers.
+
